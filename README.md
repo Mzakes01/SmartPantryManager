@@ -36,5 +36,27 @@ Smart Pantry Manager is an Android application developed for the Mobile App Deve
 - `RecipeDetailsActivity.java` — recipe details.
 - `SettingsActivity.java` — user settings and profile.
 
+
+## Feature Testing Checklist
+
+- [ ] Add a pantry ingredient.
+- [ ] Edit an existing ingredient.
+- [ ] Delete an ingredient.
+- [ ] Validate required ingredient fields.
+- [ ] Display matching recipes.
+- [ ] Display a message when no recipes match.
+- [ ] Open recipe details.
+- [ ] Save user profile settings.
+- [ ] Verify pantry data persists after restarting the app.
+
+## Submission Preparation
+
+- [ ] Test all major app features.
+- [ ] Check for build errors.
+- [ ] Prepare the required assignment report and screenshots.
+- [ ] Push the latest commits to GitHub.
+- [ ] Prepare the final project ZIP according to the assignment instructions.
+
+
 ## Author
 Thabang Leemisa (402411245) project for Mobile App Development 700.
