@@ -59,4 +59,4 @@ Smart Pantry Manager is an Android application developed for the Mobile App Deve
 
 
 ## Author
-Thabang Leemisa (402411245) project for Mobile App Development 700.
+Thabang Leemisa  project for Mobile App Development 700.
